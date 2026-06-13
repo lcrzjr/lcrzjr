@@ -18,5 +18,11 @@ I'm a software developer focused on building robust systems and exploring softwa
 </p>
 
 ## Contact
-- **LinkedIn:** [linkedin.com/in/lucianocrzjr](https://linkedin.com/in/lucianocrzjr)
-- **Email:** [lucianocrzjr@gmail.com](mailto:lucianocrzjr@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/lucianocrzjr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lucianocrzjr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
