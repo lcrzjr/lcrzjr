@@ -2,7 +2,9 @@
 Backend Developer | Software Engineer
 
 ## About
-I'm a software developer focused on building robust systems and exploring software architecture, cloud technologies, and best practices. I am always eager to learn new technologies and improve my engineering skills.
+Backend Developer with nearly 5 years of experience building and maintaining complex ERP systems and business rules. Currently focused on developing scalable, high-performance backends using **Node.js**, **TypeScript**, and **Clean Architecture**.
+
+I bring a strong foundation in relational databases (PostgreSQL), data integrity, and system integrations to the modern Node.js ecosystem.
 
 ## Tech Stack
 <p align="left">
