@@ -7,7 +7,7 @@ I'm a software developer focused on building robust systems and exploring softwa
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,docker,aws,git,github,linux,postgres,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,docker,aws,git,github,linux,postgres,mongodb&theme=dark" height="35" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@ I'm a software developer focused on building robust systems and exploring softwa
 ## Contact
 <p align="left">
   <a href="https://linkedin.com/in/lucianocrzjr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn" height="35" />
   </a>
   <a href="mailto:lucianocrzjr@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" title="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" title="Email" height="35" />
   </a>
 </p>
